@@ -1,0 +1,5 @@
+classes= 2
+train  = /home/moby/PycharmProjects/opencv_exp/helmatDetect/VOCdevkit/VOC2020/ImageSets/Main/train.txt
+valid  = /home/moby/PycharmProjects/opencv_exp/helmatDetect/VOCdevkit/VOC2020/ImageSets/Main/val.txt
+names = data/hat.names
+backup = backup
